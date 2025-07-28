@@ -13,7 +13,7 @@
 
 ---
 
-###<h2 align="center"> 👩🏽‍💻 Linguagens e Tecnologias</h2>
+<h2> 👩🏽‍💻 Linguagens e Tecnologias</h2>
 
 <img 
     align="left" 
@@ -76,7 +76,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<h2> 📊 Estatísticas</h2>
 
 <p>
   <img 
