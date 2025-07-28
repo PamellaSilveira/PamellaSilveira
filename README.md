@@ -1,7 +1,6 @@
-                                                               #👩🏽‍💻 Olá! Seja bem-vindo(a) ao meu GitHub
+<h1 align="center">👩🏽‍💻 Olá! Seja bem-vindo(a) ao meu GitHub</h1>
 
-                                                               # 👊 Prazer, meu nome é Pamella!
-
+<h2 align="center">👊 Prazer, meu nome é Pamella!</h2>
 
 **`Estudante de Análise e Desenvolvimento de Sistemas e aspirante a desenvolvedora`**
 <div>
@@ -14,7 +13,7 @@
 
 ---
 
-###👩🏽‍💻Linguagens e Tecnologias
+###<h2 align="center"> 👩🏽‍💻 Linguagens e Tecnologias</h2>
 
 <img 
     align="left" 
