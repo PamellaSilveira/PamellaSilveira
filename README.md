@@ -76,18 +76,19 @@
 <br/>
 <br/>
 
+
 <h2>📊 Estatísticas</h2>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=PamellaOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=PamellaSilveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     alt="Estatísticas do GitHub"
     height="200"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamellaOliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamellaSilveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
     alt="Linguagens mais usadas"
     height="200"
   />
